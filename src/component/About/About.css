@@ -1,0 +1,8 @@
+.text-align{
+    text-align: center;
+    margin: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.text-align h1{
+    color: rgb(9, 179, 23);
+}

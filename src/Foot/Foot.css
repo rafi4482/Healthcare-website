@@ -1,0 +1,11 @@
+.footer-design{
+    padding: 50px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 1000px;
+    color: rgb(230, 171, 62);
+    background-color: black;
+}
+.footer-design a{
+    text-decoration: none;
+    color: white;
+}

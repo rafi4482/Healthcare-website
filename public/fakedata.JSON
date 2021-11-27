@@ -1,0 +1,38 @@
+[
+    {
+        "id": 11,
+        "name": "Dental Care",
+        "desc": "Our professional dental care service",
+        "img": "https://images.unsplash.com/photo-1468493858157-0da44aaf1d13?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80"
+    },
+    {
+        "id": 12,
+        "name": "Covid Care",
+        "desc": "Our professional covid care service",
+        "img": "https://images.unsplash.com/photo-1584036561566-baf8f5f1b144?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1632&q=80"
+    },
+    {
+        "id": 13,
+        "name": "X-Ray",
+        "desc": "Our professional X-Ray service",
+        "img": "https://images.unsplash.com/photo-1581595219618-375a1a48d324?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+    },
+    {
+        "id": 14,
+        "name": "Endoscopy",
+        "desc": "Our professional endoscopy service provides a precise condition of the internal organs",
+        "img": "https://images.unsplash.com/photo-1581595220921-eec2071e5159?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80"
+    },
+    {
+        "id": 15,
+        "name": "Cancer Care",
+        "desc": "We always try to provide best care services for our cancer patients",
+        "img": "https://images.unsplash.com/photo-1581594549595-35f6edc7b762?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+    },
+    {
+        "id": 16,
+        "name": "Cardiovasculine Disease Care",
+        "desc": "Our professional doctors are always there to help with people struggling with their heart health",
+        "img": "https://images.unsplash.com/photo-1623134915831-9dcb66cf9a8e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80"
+    }
+]
