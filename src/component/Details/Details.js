@@ -22,16 +22,20 @@ const Details = () => {
 
     return (
         <>
-            <Card className="bg-dark text-white">
-                <Card.Img src={datas?.img} alt="Card image" />
-                <Card.ImgOverlay>
-                    <Card.Title>{datas?.name}</Card.Title>
-                    <Card.Text>
-                        {datas?.desc}
-                    </Card.Text>
-                </Card.ImgOverlay>
-            </Card>
+         
+            <Card>
+        <Card.Body>
+        <h3 className="align">
+          {datas?.name}
+          </h3>
+          <Card.Text className="align">
+          {datas?.desc}
+          </Card.Text>
+        </Card.Body>
+        <Card.Img variant="bottom" src={datas?.img} />
+      </Card>
 
+     
         </>
     );
 };

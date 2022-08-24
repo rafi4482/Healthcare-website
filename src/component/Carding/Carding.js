@@ -25,12 +25,12 @@ const Carding = () => {
 
                     {
 
-                        card.map(cards => <div className='col-md-2'>
+                        card.map(cards => <div className='col-md-4'>
                             <div className="carding">
                                 <div className="image">
                                     <img className='w-75' src={cards.img} alt="" />
                                 </div>
-                                <h1>{cards.name}</h1>
+                                <h4 className='p-3'>{cards.name}</h4>
                                 <p>{cards.desc}</p>
                                 <Link to={`/details/${cards.id}`}>
                                     <button className="btn btn-warning">Details</button>

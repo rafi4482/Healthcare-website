@@ -1,9 +1,17 @@
+
+*{
+    font-family: 'Poppins', sans-serif;
+
+}
+
 .carding{
-   background-color: rgb(22, 173, 85);
+   background-color: rgb(51, 73, 80);
    border-radius: 5px;
-    height: 400px;
+   padding: 40px;
+   color: rgb(224, 224, 224);
+    height: 540px;
     border: 2px solid blue;
-    margin-top: 20px;
+    margin:20px
 }
  .cards-align{
     text-align: center;
